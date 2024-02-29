@@ -13,5 +13,5 @@ Este é um programa C para gerenciamento de contas bancárias. Ele permite aos u
 -sacar: Permite ao usuário retirar fundos de uma conta específica.
 
 *Função principal :Ele inicializa uma Usuarioestrutura que representa o usuário e, em seguida, cria quatro contas de amostra usando a criar_contasfunção. Apresenta um menu ao usuário, permitindo-lhe escolher entre 
-diferentes operações como consultar saldo, depositar, sacar ou sair do programa. A partir da escolha do usuário, chama as funções correspondentes para realizar a operação desejada.No geral, este programa oferece 
+diferentes operações como consultar saldo, depositar, sacar ou sair do programa. A partir da escolha do usuário, chama as funções correspondentes para realizar a operação desejada. No geral, este programa oferece 
 funcionalidades básicas para gerenciamento de contas bancárias, embora haja espaço para expansão e melhorias, como adicionar tratamento de erros e recursos mais avançados.
