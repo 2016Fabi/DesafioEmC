@@ -1,3 +1,4 @@
+                                                  DESAFIO DO PROJETO EM C
 Este é um programa C para gerenciamento de contas bancárias. Ele permite aos usuários criar contas, verificar saldos, depositar e sacar fundos. Aqui está uma breve visão geral de como funciona:
 
 *Estruturas : Existem duas estruturas definidas - Contapara contas individuais e Usuariopara gerenciamento de múltiplas contas por usuário.
